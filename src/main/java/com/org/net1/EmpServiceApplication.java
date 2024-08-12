@@ -10,6 +10,7 @@ public class EmpServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmpServiceApplication.class, args);
+System.out.println("Hello Springboot");
 	}
 
 }
